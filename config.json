@@ -1,0 +1,57 @@
+{
+  "app_name": "Bụt Application",
+  "version": "1.0.0",
+  "description": "Hệ thống hỗ trợ các nhu cầu trong cuộc sống",
+  "services": {
+    "an_uong": {
+      "name": "Dịch vụ ăn uống",
+      "description": "Đặt đồ ăn, giao đồ ăn, đặt bàn nhà hàng",
+      "features": [
+        "Đặt đồ ăn online",
+        "Giao đồ ăn tận nơi",
+        "Đặt bàn nhà hàng",
+        "Tìm quán ăn gần đây"
+      ]
+    },
+    "di_lai": {
+      "name": "Dịch vụ đi lại",
+      "description": "Đặt xe, thuê xe, vé máy bay, vé tàu",
+      "features": [
+        "Đặt xe taxi/grab",
+        "Thuê xe tự lái",
+        "Đặt vé máy bay",
+        "Đặt vé tàu/xe khách"
+      ]
+    },
+    "thuoc_men": {
+      "name": "Dịch vụ thuốc men",
+      "description": "Mua thuốc, tư vấn sức khỏe, đặt lịch khám",
+      "features": [
+        "Mua thuốc online",
+        "Tư vấn sức khỏe",
+        "Đặt lịch khám bệnh",
+        "Giao thuốc tận nơi"
+      ]
+    },
+    "viec_nha": {
+      "name": "Dịch vụ việc nhà",
+      "description": "Dọn dẹp, giặt ủi, sửa chữa nhà cửa",
+      "features": [
+        "Dọn dẹp nhà cửa",
+        "Giặt ủi quần áo",
+        "Sửa chữa điện nước",
+        "Chăm sóc vườn tược"
+      ]
+    },
+    "viec_nong": {
+      "name": "Dịch vụ việc nông",
+      "description": "Hỗ trợ công việc nông nghiệp",
+      "features": [
+        "Thuê máy móc nông nghiệp",
+        "Thuê người làm ruộng",
+        "Tư vấn kỹ thuật trồng trọt",
+        "Mua bán nông sản"
+      ]
+    }
+  }
+}
